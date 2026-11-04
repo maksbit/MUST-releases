@@ -1,7 +1,7 @@
 {
   "schema": "must-ota-v1",
   "channel": "esp32-s3-w5500",
-  "version": "0.2.11-dev",
+  "version": "0.2.12-dev",
   "url": "https://raw.githubusercontent.com/maksbit/MUST-releases/refs/heads/main/esp32-s3-w5500/MUST-PV19-6248M-EXP_ESP32S3-W5500_16MB_OTA.bin",
-  "sha256": "4cfa280e57b84e93f88d201f7239a00c5601f32693c2687e8714c4061611f735"
+  "sha256": "1da4b38487a099ec9625d134a7f0095b3b88bb5e923ffc9a4dcb62e7b8007366"
 }
